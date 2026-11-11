@@ -1,0 +1,6 @@
+{
+  "name": "StudentTrack - College Student Tracker System",
+  "description": "A comprehensive Node.js, Express, and MongoDB-powered Student Tracker System featuring role-based dashboards for Admin, Faculty, and Students, attendance tracking, marks, assignments, and Chart.js analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
