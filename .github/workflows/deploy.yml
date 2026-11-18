@@ -39,3 +39,5 @@ jobs:
 
       - name: Deploy
         uses: actions/deploy-pages@v4
+
+        # Trigger deployment
